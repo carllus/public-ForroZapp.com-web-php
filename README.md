@@ -1,16 +1,16 @@
-# public-Veneravel-Giovanni-Ciresola-app-android
+# public-ForroZapp.com-web-php
 
-PROJETO WEB (Arquivos e Códigos):
+PROJETO WEB (Arquivos e CÃ³digos):
 
 Status: Descontinuado;
 
-Ano de publicação: 2015-2017;
+Ano de publicaÃ§Ã£o: 2015-2017;
 
 PHP: PHP5 / PHP7;
 
-Última versão: 3.0;
+Ãšltima versÃ£o: 3.0;
 
-Identificação: http:// forrozapp .com .br
+IdentificaÃ§Ã£o: http:// forrozapp .com .br
 
 Link de acesso:
 http:// forrozapp .com
@@ -19,20 +19,20 @@ http:// forrozapp .com .br
 ![Screenshot](screen-0.jpg)
 ![Screenshot](screen-1.jpg)
 
-Descrição:
+DescriÃ§Ã£o:
 
-Ouça e baixe shows de Fórro e Sertanejo em lançamento e de Artistas independentes no Brasil.
+OuÃ§a e baixe shows de FÃ³rro e Sertanejo em lanÃ§amento e de Artistas independentes no Brasil.
 
 *Busca de artistas;
 
-*Busca de músicas;
+*Busca de mÃºsicas;
 
 *Listagem por rankings de downloads;
 
-*Player de músicas;
+*Player de mÃºsicas;
 
-*Download de músicas;
+*Download de mÃºsicas;
 
 *Curtir;
 
-*Administração de envio de músicas;
+*AdministraÃ§Ã£o de envio de mÃºsicas;
