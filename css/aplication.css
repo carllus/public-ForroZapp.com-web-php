@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	background-image:url(../img/bd-splash.jpg);
+	background-repeat:no-repeat;
+	background-size:100%;
+}
+
+.logo-splash
+{
+	width:200px;
+	height:200px;
+	background-image:url(../img/logo-440x440.png);
+	background-size:200px 200px;
+	background-repeat:no-repeat;
+	
+	position: absolute;
+	
+	left: 50%;
+	margin-left:-100px;
+	
+	top: 50%;
+	margin-top:-100px;
+}

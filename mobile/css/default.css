@@ -1,0 +1,86 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+
+	background-repeat:no-repeat;
+	background-size:100%;
+	background-repeat:repeat-y;
+}
+
+.mao
+{
+	width:579px;
+	height:700px;
+	background-image:url(../img/img-mao.png);
+	background-repeat:no-repeat;
+	
+	position:fixed;
+	
+	left: 50%;
+	margin-left:-290px;
+	
+	top: 50%;
+	margin-top:-320px;
+}
+
+.iframe
+{
+	width:254px;
+	height:452px;
+
+	margin-top:52px;
+	margin-left:232px;
+}
+.anuncio
+{
+	position:fixed;
+	
+
+	width:255px;
+	height:60px;
+	
+	left: 50%;
+	margin-left:-58px;
+	
+	top: 50%;
+	margin-top:135px;
+
+}
+.menu-cell
+{
+	position:fixed;
+	border-color:#3410C5;
+	
+
+	width:255px;
+	height:50px;
+	
+	left: 50%;
+	margin-left:-58px;
+	
+	top: 50%;
+	margin-top:185px;
+}
+.menu-cell-menu
+{
+	float:left;
+
+	width:33.33%;
+	height:100%;
+}
+.menu-cell-home
+{
+	float:left;
+
+	width:33.33%;
+	height:100%;
+}
+.menu-cell-back
+{
+	float:left;
+
+	width:33.33%;
+	height:100%;
+}

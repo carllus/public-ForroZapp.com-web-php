@@ -1,0 +1,210 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	background-color:#FFFBE1;
+	background-repeat:no-repeat;
+	background-size:100%;
+}
+
+.logo-splash
+{
+	width:200px;
+	height:200px;
+	background-image:url(../img/logo-440x440.png);
+	background-size:200px 200px;
+	background-repeat:no-repeat;
+	
+	position: absolute;
+	
+	left: 50%;
+	margin-left:-100px;
+	
+	top: 50%;
+	margin-top:-100px;
+}
+
+.topo
+{
+
+	
+	width:100%;
+	height:49px;
+	margin-top:-2px;
+}
+
+.icone-topo
+{
+	position: absolute;
+	width:40px;
+	height:40px;
+	background-image:url(../img/ico-topo.fw.png);
+	background-size:100%;
+	margin-left:2px;
+	margin-top:3px;
+}
+
+.texto-topo
+{
+	position: absolute;
+	width:70%;
+	height:40px;
+	margin-left:50px;
+	margin-top:15px;
+	font-family:Arial, Gotham, "Helvetica Neue", Helvetica, sans-serif;
+	font-size:14px;
+}
+
+.quadradinhos-topo
+{
+	
+	width:20px;
+	height:40px;
+	background-image:url(../img/quadradinhos-topo.fw.png);
+	background-size:100%;
+	margin-left:230px;
+	margin:3px;
+	float: right; 
+}
+
+.menu
+{
+	width:100%;
+	height:60px;
+	background-image:url(../img/bg-menu.png);
+	margin-top:-2px;
+}
+
+.destaques-menu
+{
+	position: absolute;
+
+	height:40px;
+	margin-left:13px;
+	margin-top:20px;
+	font-family:Arial, Gotham, "Helvetica Neue", Helvetica, sans-serif;
+	font-size:13px;
+}
+
+.acessados-menu
+{	
+	position: absolute;
+
+	height:40px;
+	margin-left:90px;
+	margin-top:20px;
+	font-family:Arial, Gotham, "Helvetica Neue", Helvetica, sans-serif;
+	font-size:13px;
+}
+
+.recentes-menu
+{	
+	position: absolute;
+
+	height:40px;
+	margin-left:180px;
+	margin-top:20px;
+	font-family:Arial, Gotham, "Helvetica Neue", Helvetica, sans-serif;
+	font-size:13px;
+}
+
+.corpo
+{
+	position:absolute;
+	width:96%;
+	height:67%;
+	
+	background-color:#D80F12;
+	
+	vertical-align:bottom;
+	
+	overflow: auto;
+	
+	left: 50%;
+	margin-left:-48%;
+	
+	
+}
+
+.copo-destaques
+{
+	position:relative;
+	
+	
+	
+	width:96%;
+	height:80%;
+	
+	background-image:url(../img/fundo-capa.png);
+	background-repeat:no-repeat;
+	background-size:100%;
+	
+	left: 50%;
+	margin-left:-48%;
+	
+	
+}
+
+.fundo-capa
+{
+	position:relative;
+
+	width:74%;
+	height:74%;
+	background-image:url(../img/SIMONE%20E%20SIMARIA%20MANARI%20-%20PE.jpg);
+	background-size:100% 100%;
+	background-repeat:no-repeat;
+	
+	left: 7px;;
+	top:7px;
+	
+	margin-top:5px;
+	
+	left: 50%;
+	margin-left:-37%;
+}
+
+
+
+.texto-destaques
+{
+	position:relative;
+	width:100%;
+	height:12%;
+	margin-left:3px;
+	margin-top:10px;
+	font-family:Arial, Gotham, "Helvetica Neue", Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	
+	left: 5%;
+
+}
+
+.subtexto-destaques
+{
+	position:relative;
+
+	width:100%;
+	height:12%;
+
+	font-family:Arial, Gotham, "Helvetica Neue", Helvetica, sans-serif;
+	font-size:11px;
+	
+	left: 5%;
+}
+
+.rodape
+{
+	position:absolute;
+	background-image:url(../img/rodape.fw.png);
+	background-repeat:repeat-x;
+	width:100%;
+
+	height:78px;
+	
+	top:100%;
+	margin-top:-78px;
+}
+	
